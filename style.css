@@ -1,0 +1,31 @@
+ul {
+    list-style-type: none;
+}
+ul li a {
+    text-decoration: none;
+    padding:5px 20px; 
+    color: black;
+    margin: 0;
+    font-size: 20px;
+}
+.naziv-artikla {
+    font-size:30px;
+}
+.opis-artikla {
+    font-size: 20px;
+}
+.artikal {
+    text-align: center;
+}
+.cijena {
+    font-size: 30px;
+    color: blue;
+}
+.footer {
+    margin-top: 25%;
+    text-align: center;
+}
+.dugme-kupi {
+    font-size: 30px;
+    text-align:center;
+}
